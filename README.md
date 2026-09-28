@@ -236,7 +236,3 @@ Software Engineer
 Java | Spring Boot | React | AI Integration
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
